@@ -41,13 +41,13 @@ a {
     height: 100%;
 }
 
-.search {
+.header .search {
     width: 326px;
     height: 38px;
     position: absolute;
     right: 0px;
     top: 29px;
-    background: orange;
+    /* background: orange; */
 }
 
 /* nav模块样式 */
